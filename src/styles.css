@@ -44,6 +44,7 @@
 }
 
 .recipe-details {
+    font-family: sans-serif;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 10px;
